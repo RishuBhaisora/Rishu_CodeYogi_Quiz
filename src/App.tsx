@@ -1,8 +1,9 @@
+import Button from "./Button";
 
 
 function App() {
   return(
-  <div className="text-green-600 font-black">Hello World!</div>
+  <Button></Button>
   )
 }
 
